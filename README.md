@@ -1,5 +1,9 @@
+
+
 ДАННЫЙ "ПРОДУКТ" БЫЛ НАПИСАН, КОГДА Я (Fembi) ЧИТАЛ(А) РУКОВОДСТВО К СВОЕЙ РАБОТЕ. QA-ASSURANCE (https://qarocks.ru/big-software-testing-textbook/#fundamentals)
+
 Исходный код, который и подтолкнул меня к написанию данного скрипта находится по ссылке-(https://qarocks.ru/test-coverage-metric-guide/) в блоке "Обманчивое Покрытие"
+
 TTFD ВСЕМ НАШИМ. [LT] NATION FOREVER
 
 # Калькулятор скидки
