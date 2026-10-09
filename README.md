@@ -20,11 +20,9 @@
 python discount_calculator.py
 ```
 
-## Сборка .exe
 
-```
-pip install pyinstaller
-python -m PyInstaller --onefile --windowed discount_calculator.py
-```
+Лицензия
 
-Готовый файл появится в папке `dist/`.
+MIT — делай с кодом что хочешь, но без каких-либо гарантий.
+
+Powered by Fembi. TTFD. 
